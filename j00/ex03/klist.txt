@@ -1,0 +1,6 @@
+Credentials cache: API:23FE3142-6BAB-49A5-B229-E3F6718DFC1B
+        Principal: aridolfi@42.FR
+
+  Issued                Expires               Principal
+Aug 29 17:43:41 2016  Sep  5 17:43:19 2016  krbtgt/42.FR@42.FR
+Aug 29 17:45:40 2016  Sep  5 17:43:19 2016  host/vgs-fn1.42.fr@42.FR
